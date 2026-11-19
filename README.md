@@ -1,2 +1,0 @@
-# international-finance
-project F 
